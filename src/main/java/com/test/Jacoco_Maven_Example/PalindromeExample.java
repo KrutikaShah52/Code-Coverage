@@ -11,6 +11,14 @@ public class PalindromeExample {
 	        String mid = inputString.substring(1, inputString.length() - 1);
 	        return (firstChar == lastChar) && isPalindrome(mid);
 	    }
+	    if (1==0)
+	    {
+		    System.out.println("Working.....");
+	    }
+	    else
+	    {
+		    System.out.println("Not working.............");
+	    }
 	}
 	
 }
