@@ -11,7 +11,7 @@ public class PalindromeExample {
 	        String mid = inputString.substring(1, inputString.length() - 1);
 		    for(int i=0; i<=5; i++)
 		    {
-			    System.out.println(" ", +i);
+			    System.out.println(" " +i);
 		    }
 	        return (firstChar == lastChar) && isPalindrome(mid);
 	    }
