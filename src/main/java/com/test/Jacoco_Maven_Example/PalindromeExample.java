@@ -18,5 +18,9 @@ public class PalindromeExample {
 	        return (firstChar == lastChar) && isPalindrome(mid);
 	    }
 	}
+	public void add()
+	{
+		system.out.println("Adding something");
+	}
 	
 }
