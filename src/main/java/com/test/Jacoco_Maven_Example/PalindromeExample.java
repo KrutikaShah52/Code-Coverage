@@ -20,7 +20,7 @@ public class PalindromeExample {
 	}
 	public void add()
 	{
-		system.out.println("Adding something");
+		System.out.println("Adding something");
 	}
 	
 }
